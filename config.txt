@@ -11,10 +11,10 @@ LOG_LEVEL = debug
 LOG_PATH = /var/log/app.log
 
 # Feature toggles
-NEW_FEATURE_ENABLED = true
-BETA_USER_ACCESS = true
+NEW_FEATURE_ENABLED = false
+BETA_USER_ACCESS = false
 VERBOSE_ERRORS = false
-AUTO_UPDATE = true
+AUTO_UPDATE = false
 
 # API settings
 API_ENDPOINT = https://api.example.com/v1/
