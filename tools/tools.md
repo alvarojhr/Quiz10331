@@ -1,0 +1,3 @@
+GitHub
+GitKraken
+GitHub Coopilot
