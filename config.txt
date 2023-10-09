@@ -1,0 +1,25 @@
+# Sample Configuration File: config.txt
+
+# Database configuration
+DATABASE_HOST = localhost
+DATABASE_USER = admin
+DATABASE_PASS = secret
+DATABASE_PORT = 5432
+
+# Logging settings
+LOG_LEVEL = debug
+LOG_PATH = /var/log/app.log
+
+# Feature toggles
+NEW_FEATURE_ENABLED = true
+BETA_USER_ACCESS = true
+VERBOSE_ERRORS = false
+AUTO_UPDATE = true
+
+# API settings
+API_ENDPOINT = https://api.example.com/v1/
+API_TOKEN = abc123456789
+
+# Miscellaneous
+MAX_RETRIES = 3
+TIMEOUT = 30
