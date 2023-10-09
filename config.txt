@@ -14,7 +14,7 @@ LOG_PATH = /var/log/app.log
 NEW_FEATURE_ENABLED = false
 BETA_USER_ACCESS = true
 VERBOSE_ERRORS = false
-AUTO_UPDATE = true
+AUTO_UPDATE = false
 
 # API settings
 API_ENDPOINT = https://api.example.com/v1/
